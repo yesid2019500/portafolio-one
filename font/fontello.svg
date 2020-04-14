@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="menu" unicode="&#xf0c9;" d="M857 100v-71q0-15-10-25t-26-11h-785q-15 0-25 11t-11 25v71q0 15 11 25t25 11h785q15 0 26-11t10-25z m0 286v-72q0-14-10-25t-26-10h-785q-15 0-25 10t-11 25v72q0 14 11 25t25 10h785q15 0 26-10t10-25z m0 285v-71q0-14-10-25t-26-11h-785q-15 0-25 11t-11 25v71q0 15 11 26t25 10h785q15 0 26-10t10-26z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="facebook-official" unicode="&#xf230;" d="M810 779q19 0 33-14t14-34v-762q0-20-14-34t-33-14h-218v333h111l16 129h-127v83q0 31 13 46t51 16l68 1v115q-35 5-100 5-75 0-121-44t-45-127v-95h-112v-129h112v-333h-411q-19 0-33 14t-14 34v762q0 20 14 34t33 14h763z" horiz-adv-x="857.1" />
+
+<glyph glyph-name="whatsapp" unicode="&#xf232;" d="M550 307q7 0 54-25t50-30q1-2 1-8 0-18-9-42-9-22-40-37t-57-15q-32 0-106 35-55 25-95 66t-82 103q-41 60-40 108v5q2 50 41 88 14 12 29 12 4 0 10-1t11-1q11 0 15-3t8-16q5-11 19-49t14-41q0-12-19-33t-20-26q0-3 3-8 19-41 57-76 31-30 84-57 7-4 13-4 8 0 30 27t29 28z m-114-296q71 0 136 28t112 74 75 112 28 136-28 136-75 112-112 75-136 28-135-28-112-75-75-112-28-136q0-113 67-205l-44-130 135 43q88-58 192-58z m0 771q86 0 164-34t134-89 90-135 33-163-33-163-90-134-134-90-164-34q-108 0-203 53l-233-75 76 226q-60 99-60 217 0 86 33 163t90 135 134 89 163 34z" horiz-adv-x="857.1" />
+</font>
+</defs>
+</svg>
